@@ -9,3 +9,17 @@ h1 {
 .title {
   color: black;
 }
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+#photoDiv {
+  text-align: center;
+}
+
+img:hover {
+  width: 305px;
+  height: auto;
+}
